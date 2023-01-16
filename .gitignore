@@ -129,4 +129,4 @@ dmypy.json
 .pyre/
 
 #API Key
-pass.py
+secret.py
