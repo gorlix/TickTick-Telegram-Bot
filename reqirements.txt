@@ -1,0 +1,4 @@
+asyncio
+logging
+python-telegram-bot
+ticktick-py
